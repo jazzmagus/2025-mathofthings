@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: diego fantinelli
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: d!3g0 
+last_name: fantinelli
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Math of the Things
 
 # Name pronunciation (optional)
 name_pronunciation: diego fantinelli
